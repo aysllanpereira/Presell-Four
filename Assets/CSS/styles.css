@@ -46,8 +46,9 @@ h1 {
     font-size: 1.6em;
 }
 
-strong {
+.text-titles strong {
     color: red;
+    margin-left: 5px;
 }
 
 h2 {
